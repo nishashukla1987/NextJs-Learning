@@ -18,6 +18,7 @@ function index({ nisha }) {
         <Link href={'/nisha/' + n.id} key={n.id}>
           <a className={styles.single}>
             <h3>{n.name}</h3>
+            <h2>{n.website}</h2>
           </a>
         </Link>
       ))}
