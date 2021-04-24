@@ -17,7 +17,7 @@ function NotFound() {
       <h1>Oooops...</h1>
       <h2>This page can not be found.</h2>
       <p>
-        Go back to the{' '}
+        Go back to the
         <Link href='/'>
           <a>HomePage</a>
         </Link>

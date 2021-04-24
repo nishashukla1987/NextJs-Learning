@@ -16,6 +16,13 @@ function about() {
           culpa, praesentium, molestias similique accusantium totam deserunt.
           Nesciunt vitae beatae cum sequi?
         </p>
+
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
+          explicabo saepe officiis quia maxime ullam perspiciatis iste natus,
+          culpa, praesentium, molestias similique accusantium totam deserunt.
+          Nesciunt vitae beatae cum sequi?
+        </p>
       </div>
     </>
   );
